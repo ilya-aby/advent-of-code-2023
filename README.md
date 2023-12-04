@@ -8,3 +8,4 @@
 * Day 1: [Part 1](/D1P1/main.py) & [Part 2](/D1P2/main.py) - Merging digits from the ends of a string
 * Day 2: [Part 1](/D2P1/main.py) & [Part 2](/D2P2/main.py) - Colored ball game
 * Day 3: [Part 1](/D3P1/main.py) & [Part 2](/D3P2/main.py) - Engine parts and gears
+* Day 3: [Part 1](/D4P1/main.py) & [Part 2](/D4P2/main.py) - Scratchcards
