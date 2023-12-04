@@ -1,0 +1,10 @@
+# advent-of-code-2023
+
+### Purpose
+* My solutions in Python to Advent of Code 2023
+* Comments in each main.py contain the puzzle prompt
+
+### Index
+* Day 1: [Part 1](/D1P1/main.py) & [Part 2](/D1P2/main.py) - Merging digits from the ends of a string
+* Day 2: [Part 1](/D2P1/main.py) & [Part 2](/D2P2/main.py) - Colored ball game
+* Day 3: [Part 1](/D3P1/main.py) & [Part 2](/D3P2/main.py) - Engine parts and gears
