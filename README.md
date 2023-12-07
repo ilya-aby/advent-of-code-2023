@@ -11,3 +11,4 @@
 * Day 4: [Part 1](/D4/d4p1.py) & [Part 2](/D4/d4p2.py) - Scratchcards
 * Day 5: [Part 1](/D5/d5p1.py) & [Part 2](/D5/d5p2.py) - Seed Maps
 * Day 6: [Part 1](/D6/d6p1.py) & [Part 2](/D6/d6p2.py) - Boat Races
+* Day 7: [Part 1](/D7/d7p1.py) & [Part 2](/D7/d7p2.py) - Camel Poker
