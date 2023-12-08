@@ -1,8 +1,8 @@
 # advent-of-code-2023
 
 ### Purpose
-* My solutions in Python to Advent of Code 2023
-* Comments in each main.py contain the puzzle prompt
+* My solutions in Python to [Advent of Code](https://adventofcode.com/) 2023
+* For this year, focusing on learning Python best-practices & how to pair effectively with LLMs
 
 ### Index
 * Day 1: [Part 1](/D1/d1p1.py) & [Part 2](/D1/d1p2.py) - Merging digits from the ends of a string
@@ -12,3 +12,4 @@
 * Day 5: [Part 1](/D5/d5p1.py) & [Part 2](/D5/d5p2.py) - Seed Maps
 * Day 6: [Part 1](/D6/d6p1.py) & [Part 2](/D6/d6p2.py) - Boat Races
 * Day 7: [Part 1](/D7/d7p1.py) & [Part 2](/D7/d7p2.py) - Camel Poker
+* Day 8: [Part 1](/D8/d8p1.py) & [Part 2](/D8/d8p2.py) - Camel Maps
