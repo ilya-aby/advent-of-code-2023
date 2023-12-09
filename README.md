@@ -13,3 +13,4 @@
 * Day 6: [Part 1](/D6/d6p1.py) & [Part 2](/D6/d6p2.py) - Boat Races
 * Day 7: [Part 1](/D7/d7p1.py) & [Part 2](/D7/d7p2.py) - Camel Poker
 * Day 8: [Part 1](/D8/d8p1.py) & [Part 2](/D8/d8p2.py) - Camel Maps
+* Day 9: [Part 1](/D9/d9p1.py) & [Part 2](/D9/d9p2.py) - Sequence Prediction
