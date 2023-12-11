@@ -14,3 +14,5 @@
 * Day 7: [Part 1](/D7/d7p1.py) & [Part 2](/D7/d7p2.py) - Camel Poker
 * Day 8: [Part 1](/D8/d8p1.py) & [Part 2](/D8/d8p2.py) - Camel Maps
 * Day 9: [Part 1](/D9/d9p1.py) & [Part 2](/D9/d9p2.py) - Sequence Prediction
+* Day 10: [Part 1](/D10/d10p1.py) & [Part 2](/D10/d10p2.py) - Pipe Maze
+* Day 11: [Part 1](/D11/d11p1.py) & [Part 2](/D11/d11p2.py) - Galaxy Maps
