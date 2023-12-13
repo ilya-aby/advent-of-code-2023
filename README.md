@@ -16,3 +16,5 @@
 * Day 9: [Part 1](/D9/d9p1.py) & [Part 2](/D9/d9p2.py) - Sequence Prediction
 * Day 10: [Part 1](/D10/d10p1.py) & [Part 2](/D10/d10p2.py) - Pipe Maze
 * Day 11: [Part 1](/D11/d11p1.py) & [Part 2](/D11/d11p2.py) - Galaxy Maps
+* Day 12: [Part 1](/D12/d12p1.py) & [Part 2](/D12/d12p2.py) - Broken Springs
+* Day 13: [Part 1](/D13/d13p1.py) & [Part 2](/D13/d13p2.py) - Mirrored Lava Map
