@@ -1,6 +1,8 @@
 """
 This module solves Part Two of Day 13's problem of the Advent of Code challenge.
-
+We look for the smudge in the pattern that causes a different reflection line to be valid.
+Only modification is that we need to make sure we scan for a new mirror value even if we find the
+old value, since the smudge doesn't necessarily invalidate the old pattern.
 """
 # --- Part Two ---
 # You resume walking through the valley of mirrors and - SMACK! - run directly into one. Hopefully
