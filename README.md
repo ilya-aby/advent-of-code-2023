@@ -19,3 +19,5 @@
 * Day 12: [Part 1](/D12/d12p1.py) & [Part 2](/D12/d12p2.py) - Broken Springs
 * Day 13: [Part 1](/D13/d13p1.py) & [Part 2](/D13/d13p2.py) - Mirrored Lava Map
 * Day 14: [Part 1](/D14/d14p1.py) & [Part 2](/D14/d14p2.py) - Rolling Rocks
+* Day 15: [Part 1](/D15/d15p1.py) & [Part 2](/D15/d15p2.py) - Lens Library
+* Day 16: [Part 1](/D16/d16p1.py) & [Part 2](/D16/d16p2.py) - Light Beams and Mirrors
