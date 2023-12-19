@@ -22,3 +22,4 @@
 * Day 15: [Part 1](/D15/d15p1.py) & [Part 2](/D15/d15p2.py) - Lens Library
 * Day 16: [Part 1](/D16/d16p1.py) & [Part 2](/D16/d16p2.py) - Light Beams and Mirrors
 * Day 17: [Part 1](/D17/d17p1.py) & [Part 2](/D17/d17p2.py) - Sliding Crucible
+* Day 18: [Part 1](/D18/d18p1.py) & [Part 2](/D18/d18p2.py) - Digging Trenches
