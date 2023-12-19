@@ -173,7 +173,7 @@ def main():
     """
     Reads in the input file, processes and outputs the solution
     """
-    data = parse_input("sample.txt")
+    data = parse_input("input.txt")
     heat_loss = dijkstra(data)
     print(heat_loss)
 
