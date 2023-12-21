@@ -24,3 +24,4 @@
 * Day 17: [Part 1](/D17/d17p1.py) & [Part 2](/D17/d17p2.py) - Sliding Crucible
 * Day 18: [Part 1](/D18/d18p1.py) & [Part 2](/D18/d18p2.py) - Digging Trenches
 * Day 19: [Part 1](/D19/d19p1.py) & [Part 2](/D19/d19p2.py) - Instruction Intervals
+* Day 20: [Part 1](/D20/d20p1.py) & [Part 2](/D20/d20p2.py) - Modules
