@@ -30,3 +30,36 @@
 * Day 23: [Part 1](/D23/d23p1.py) & [Part 2](/D23/d23p2.py) - Longest Walk
 * Day 24: [Part 1](/D24/d24p1.py) & [Part 2](/D24/d24p2.py) - Colliding Hailstones
 * Day 25: [Part 1](/D25/d25p1.py) - Cutting Wires
+
+### Lessons Learned This Year
+**Python Basics:**
+* Using `file.read().splitlines()` and `split()` to efficiently ingest delineated input data
+* Using Python string methods like `.find()` and `.replace()` instead of regulare expressions
+* Using docstrings at the top of modules and function definitions
+* Iterating over dictionaries and lists with `enumerate()` and `items()` instead of i = 1 to length
+* Using `all()` and `any()` to test contents of iterable objects
+* Using the debugger and conditional breakpoints to step into the program at specific times
+
+**Python Libraries:**
+* Using `tqdm` to estimate progress time for long-running scripts
+* Using `icecream` to debug outputs
+* Using `networkx` for manipulating graphs
+* Using `@cache` decorator from `functools` to automatically memoize a function
+* Using `graphviz` to visualize network graphs 
+* Using `matplotlib` to create 3D visualizations of lines & polygons for problems in 3D space
+* Using `sympy` to solve systems of equations 
+
+**General Algorithms & Data Structures:**
+* Using stacks in place of recursion and running DFS/BFS with a `while queue` loop
+* Using Dijkstra's for finding minimum cost paths through graphs with unequal weights
+* Ray casting from a point to determine if it's inside or outside a polygon
+* Using Shoelace Theorem and Pick's Theorem to calculate area of a polygon
+
+**AoC-specific Tricks:**
+* Inspecting the input for hidden properties not mentioned in the problem
+* Logging x --> f(x) values to manually find cycles and patterns
+* Visually inspecting network graphs and grids for unusual patterns or bottlenecks
+* Using pre-made templates to speed up getting started on a new problem
+
+**IDE / VSCode**
+* Using `Pylint`, `Error Lens`, and `autopep8` to format code

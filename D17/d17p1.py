@@ -161,7 +161,8 @@ def dijkstra(data):
             # Calculate the new heat loss
             total_heat_loss = heat_loss + new_heat_loss
 
-            # If the new heat loss is less than the current minimum heat loss at the new node, update it
+            # If the new heat loss is less than the current minimum heat loss at the new node,
+            # update it
             if total_heat_loss < min_heat_loss[new_loc[0]][new_loc[1]][vector_index]:
                 min_heat_loss[new_loc[0]][new_loc[1]][vector_index] = total_heat_loss
                 # Add the new node to the queue
