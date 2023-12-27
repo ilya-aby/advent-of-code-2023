@@ -25,3 +25,8 @@
 * Day 18: [Part 1](/D18/d18p1.py) & [Part 2](/D18/d18p2.py) - Digging Trenches
 * Day 19: [Part 1](/D19/d19p1.py) & [Part 2](/D19/d19p2.py) - Instruction Intervals
 * Day 20: [Part 1](/D20/d20p1.py) & [Part 2](/D20/d20p2.py) - Modules
+* Day 21: [Part 1](/D21/d21p1.py) & [Part 2](/D21/d21p2.py) - Garden Step Counter
+* Day 22: [Part 1](/D22/d22p1.py) & [Part 2](/D22/d22p2.py) - Falling Sand Slabs
+* Day 23: [Part 1](/D23/d23p1.py) & [Part 2](/D23/d23p2.py) - Longest Walk
+* Day 24: [Part 1](/D24/d24p1.py) & [Part 2](/D24/d24p2.py) - Colliding Hailstones
+* Day 25: [Part 1](/D25/d25p1.py) - Cutting Wires

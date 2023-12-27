@@ -41,7 +41,8 @@ energy value
 # ########..
 # .#######..
 # .#...#.#..
-# Find the initial beam configuration that energizes the largest number of tiles; how many tiles are energized in that configuration?
+# Find the initial beam configuration that energizes the largest number of tiles; how many tiles are
+# energized in that configuration?
 #
 # Your puzzle answer was 8318.
 
