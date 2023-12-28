@@ -51,6 +51,7 @@
 
 **General Algorithms & Data Structures:**
 * Using stacks in place of recursion and running DFS/BFS with a `while queue` loop
+* Sub-note: swapping between DFS nand BFS is often as easy as changing .pop() to .pop(0)
 * Using Dijkstra's for finding minimum cost paths through graphs with unequal weights
 * Ray casting from a point to determine if it's inside or outside a polygon
 * Using Shoelace Theorem and Pick's Theorem to calculate area of a polygon

@@ -139,7 +139,7 @@ def dfs_graph(graph):
     This problem is NP-hard, so we the only reason this works is because the maze is
     very narrow and has few junctions & we can compress it into a graph representation.
     """
-    start_time = time.time()
+
     start = (0, 1)
     end = (140, 139)
     stack = [(start, 0, [], set())]  # Stack for DFS: (current node, cost, path, visited)
@@ -150,9 +150,6 @@ def dfs_graph(graph):
 
         if current == end and cost > max_cost:
             max_cost = cost
-            elapsed_time = time.time() - start_time
-            print(f"New longest path: {max_cost}. Time elapsed: {round(elapsed_time, 2)} seconds.")
-            
 
         if current in visited:
             continue
@@ -179,8 +176,11 @@ def main():
     Reads in the input file, processes and outputs the solution
     """
     maze = parse_input("input.txt")
+    start_time = time.time()
     graph = convert_to_graph(maze)
-    ic(dfs_graph(graph))
+    max_cost = dfs_graph(graph)
+    elapsed_time = time.time() - start_time
+    print(f"Longest path: {max_cost}. Time elapsed: {round(elapsed_time, 2)} seconds.")
 
 if __name__ == "__main__":
     main()
